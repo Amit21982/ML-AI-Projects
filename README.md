@@ -6,14 +6,14 @@ The folder has various projects solving some real world problems using Machine l
 
 It covers following topics 
 
-# - Linear regression models
+### - Linear regression models
 
-# - Principle component analysis
+### - Principle component analysis
 
-# - Neural Networks
+### - Neural Networks
 
-# - Reinforcement learning
+### - Reinforcement learning
 
-# - Deep Neural Networks
+### - Deep Neural Networks
 
-# - Chatbots using Rasa
+### - Chatbots using Rasa
