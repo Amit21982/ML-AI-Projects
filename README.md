@@ -4,7 +4,7 @@ The folder has various projects solving some real world problems using Machine l
 
 Most of the scripts are in python and are written using Jupyter Notebooks
 
-# Highlights
+### Highlights
 
 It covers following topics 
 
