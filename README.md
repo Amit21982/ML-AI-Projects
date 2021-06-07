@@ -2,14 +2,18 @@
 
 The folder has various projects solving some real world problems using Machine learning, Natural Language Processing and Artificial Intelligence. Most of the scripts are in python and are written using Jupyter Notebooks
 
--Linear regression models
+# Highlights
 
--Principle component analysis
+It covers following topics 
 
--Neural Networks
+# - Linear regression models
 
--Reinforcement learning
+# - Principle component analysis
 
--Deep Neural Networks
+# - Neural Networks
 
--Chatbots using Rasa
+# - Reinforcement learning
+
+# - Deep Neural Networks
+
+# - Chatbots using Rasa
